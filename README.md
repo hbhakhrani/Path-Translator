@@ -1,7 +1,7 @@
 Path Translator
 ===============
 
-Converts Windows style paths to Unix style paths and vice versa.
+Converts Windows style paths to Unix style paths and vice versa. Its a very simple feature, but think about the number of times you have had to do something like this and done it manually. 
 
 ## What does it do?
 
