@@ -20,6 +20,6 @@ Install using package control. See [package control docs](https://packagecontrol
 ####Usage
 Highlight the path(s) to convert and select the appropriate command from the command palette. The two commands available are *"Path: Unix to Windows"* and *"Path: Windows to Unix"*.
 
-You can also copy the path of the current file as Unix or Windows path to clipboard, using **Path: Copy current file path as Unix** or **Path: Copy current file path as Windows**
+You can also copy the path of the current file as Unix or Windows path to clipboard, using *"Path: Copy current file path as Unix"* or *"Path: Copy current file path as Windows"*
 
 To configure the prefix of the Unix style path, edit the settings.
