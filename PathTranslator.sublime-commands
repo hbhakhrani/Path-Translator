@@ -1,6 +1,19 @@
 [
-	{ "caption": "Path: Windows to Unix", "command": "path_windows_to_unix" },
-
-	{ "caption": "Path: Unix to Windows", "command": "path_unix_to_windows" }
+	{
+	"caption": "Path: Windows to Unix",
+	"command": "path_windows_to_unix"
+	},
+	{
+	"caption": "Path: Unix to Windows",
+	"command": "path_unix_to_windows"
+	},
+	{
+	"caption": "Path: Copy current file path as Unix",
+	"command": "current_file_path_as_unix"
+	},
+	{
+	"caption": "Path: Copy current file path as Windows",
+	"command": "current_file_path_as_windows"
+	}
 ]
 
